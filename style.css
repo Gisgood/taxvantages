@@ -462,6 +462,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .label-message-style{
 	font-family:"OpenSans";
 }
+.h5-style{
+	font-family:"OpenSans-Extrabold";
+}
 
 /* = Colour
 -------------------------------------------------------------- */
